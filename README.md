@@ -96,6 +96,7 @@ For more detail, see:
 - [User guide](docs/USER_GUIDE.md)
 - [Developer guide](docs/DEVELOPER_GUIDE.md)
 - [Financial ecology architecture](docs/research/financial_ecology_architecture.md)
+- [Financial ecology publication study](docs/research/financial_ecology_publication.md)
 - [Server capacity report](docs/SERVER_CAPACITY_REPORT.md)
 
 ## Setup

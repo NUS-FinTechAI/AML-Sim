@@ -126,3 +126,7 @@ The foundation scenario is
 `scenarios/research/financial_ecology_stock_future_foundation.yaml`. It is a
 mechanism smoke test, not a confirmatory result. RQ1 and RQ2 treatment grids
 come only after these gates are passed.
+
+The validated publication study, replication design, effect estimates, and
+interpretation limits are documented in
+[Financial ecology publication study](financial_ecology_publication.md).
